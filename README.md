@@ -8,7 +8,7 @@ I started out learning on my own, then continued to improve my skills through co
 
 * 🌍  I'm based in Russia, Nizhniy Novgorod
 * ✉️  You can contact me at [mavolkom@gmail.com](mailto:mavolkom@gmail.com)
-* Or Telegram ![image](https://github.com/MiVolcom/MiVolcom/assets/150587919/a100d50a-ed8c-479b-bab2-c59cb326af21)
+* Or Telegram ![image](https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000)
 
 
 ### Skills
