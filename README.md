@@ -9,7 +9,7 @@ I started out learning on my own, then continued to improve my skills through co
 * 🌍  I'm based in Russia, Nizhniy Novgorod
 * ✉️  You can contact me at <a href="mailto:mavolkom@gmail.com"><img src="https://img.icons8.com/?size=22&id=P7UIlhbpWzZm&format=png&color=000000"></a>
 or Telegram <a href="https://t.me/MiVolcom"><img src="https://img.icons8.com/?size=22&id=63306&format=png&color=000000"></a>
-* Hexlet CV <a href="https://cv.hexlet.io/ru/users/12609"><img src="https://github.com/MiVolcom/MiVolcom/assets/150587919/65423058-8f44-449f-ad6e-f0945275fef0" width="36" height="36" alt="CV" /></a>
+* Hexlet CV <a href="https://cv.hexlet.io/ru/users/12609"><img src="https://github.com/MiVolcom/MiVolcom/assets/150587919/65423058-8f44-449f-ad6e-f0945275fef0" width="30" height="30" alt="CV" /></a>
 
 
 
