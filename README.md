@@ -7,7 +7,7 @@ Java Backend Developer
 I started out learning on my own, then continued to improve my skills through courses on the Hexlet platform. At the moment, I'm in the learning stage and have experience in creating small projects, as well as knowledge of HTML, CSS, SQL, HTTP, IP, Linux, Git, and I'm constantly adding to this list.
 
 * 🌍  I'm based in Russia, Nizhniy Novgorod
-* ✉️  You can contact me at <a href="mailto:mavolkom@gmail.com"><img src="https://img.icons8.com/?size=22&id=P7UIlhbpWzZm&format=png&color=000000" margin-bottom="-10px"></a>
+* ✉️  You can contact me at <a href="mailto:mavolkom@gmail.com"><img src="https://img.icons8.com/?size=22&id=P7UIlhbpWzZm&format=png&color=000000" margin-top="10px"></a>
 or Telegram <a href="https://t.me/MiVolcom"><img src="https://img.icons8.com/?size=22&id=63306&format=png&color=000000"></a>
 
 
